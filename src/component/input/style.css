@@ -1,0 +1,55 @@
+.input {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.title-text,
+.creator-text,
+.created-at-text,
+.description-text {
+    display: inline-block;
+    width: 100px;
+    height: 21px;
+    font-weight: 700;
+    font-size: 14px;
+    align-items: center;
+    color: #000000;
+}
+
+.input__title,
+.input__creator,
+.input__created-at,
+.input__Description {
+    width: 280px;
+    font-weight: 500;
+    font-size: 14px;
+    color: #BBBBBB;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.font-size {
+    font-size: 2rem;
+    margin-right: 50px;
+}
+
+.creator,
+.created-at {
+    margin: 20px 0;
+}
+
+.btn-save,
+.btn-reset,
+.btn-delete {
+    margin-top: 100px;
+    width: 100px;
+    height: 50px;
+    background: #675BF1;
+    border: 2px solid #FFFFFF;
+    border-radius: 10px;
+    font-size: 24px;
+    text-align: center;
+    color: #FFFFFF;
+}

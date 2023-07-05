@@ -40,7 +40,7 @@
     font-weight: 700;
     font-size: 14px;
     line-height: 16px;
-    color: #04BE00;
+    /* color: #04BE00; */
 }
 
 .status::after {
